@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 <p><img src="https://github-readme-stats.vercel.app/api?username=hermann002&show_icons=true&locale=en" alt="hermann002" /></p>
 </div>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=hermann002&" alt="hermann002" /></p>
+<p  align="rigth"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hermann002&" alt="hermann002" /></p>
