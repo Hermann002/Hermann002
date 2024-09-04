@@ -3,8 +3,7 @@
 **DATA ANALYST / ENGINEER**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hermann%20Nzeudeu-blue)](https://www.linkedin.com/in/hermann-nzeudeu-b10574229/)
-[![Email](https://img.shields.io/badge/Email-hermannnzeudeu@gmail.com-red)](mailto:hermannnzeudeu@gmail.com)
-[![Mobile](https://img.shields.io/badge/Mobile-%2B237%20656%20696%20994-brightgreen)](tel:+237656696994)
+[![Email](https://img.shields.io/badge/Email-hermannnzeudeu@gmail.com-red)](mailto:hermannnzeudeu@gmail.com
 
 ---
 
